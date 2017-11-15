@@ -1,0 +1,19 @@
+{
+    "name": "zhudandan123/zhudandan201711141132",
+    "description": "this is a demo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "123",
+            "email": "1182547258@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
